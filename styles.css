@@ -1,0 +1,165 @@
+body {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+.images {
+  width: 250px;
+}
+
+.cr {
+  color: #EAF6F6;
+  font-size: 0.625rem;
+  padding-top: 20px;
+}
+
+.credit {
+  color: #EAF6F6;
+  font-size: 0.625rem;
+  padding-top: 0;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link {
+  color: #11999E;
+  margin: 20px 10px;
+  text-decoration: none;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.copy{
+  color: #EAF6F6;
+}
+
+.copy:hover {
+  color: #11999E;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  margin: 0 auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.code-img{
+  float: left;
+  margin-right: 30px;
+  width: 30%;
+}
+
+.cube-img{
+  float: right;
+  margin-left: 30px;
+  width: 30%;
+}
+
+.bottom-cloud{
+  bottom: 300px;
+  left: 250px;
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+hr {
+  border-color: lightgrey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  margin: 40px auto;
+  width: 5%;
+}
+
+.para {
+  margin: auto;
+  width: 40%
+}
+
+p {
+  line-height: 2;
+}
+
+.cont-msg {
+  margin: 40px auto;
+  width: 40%;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
